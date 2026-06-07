@@ -763,7 +763,7 @@ public class WebActivity extends AppCompatActivity {
 - Lỗi khi hiển thị gửi API thất bại
 <img width="839" height="837" alt="image" src="https://github.com/user-attachments/assets/bc2329a7-8b1e-4c75-bdd9-c6fb4d0affc9" />
 
-- Trang web: `https://k58kmt.tdh.io.vn/?masv=K225480106082` vẫn chưa thể truy cập để gửi tới server
+- Trang web: `https://k58kmt.tdh.io.vn/?masv=K225480106082` lỗi chưa thể truy cập được
 <img width="838" height="837" alt="image" src="https://github.com/user-attachments/assets/266d34e3-19cc-43ae-95e5-a610565aa5be" />
 
 
