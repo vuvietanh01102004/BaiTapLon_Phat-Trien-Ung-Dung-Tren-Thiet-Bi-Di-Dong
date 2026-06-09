@@ -766,5 +766,16 @@ public class WebActivity extends AppCompatActivity {
 - Trang web: `https://k58kmt.tdh.io.vn/?masv=K225480106082` lỗi chưa thể truy cập được
 <img width="838" height="837" alt="image" src="https://github.com/user-attachments/assets/266d34e3-19cc-43ae-95e5-a610565aa5be" />
 
+- App activity: giải phương trình bậc 1
+<img width="438" height="878" alt="image" src="https://github.com/user-attachments/assets/40691d12-d625-4494-8023-6859844de354" />
 
+- Gửi bài toán lên trang: https://k58kmt.tdh.io.vn/
+<img width="1754" height="907" alt="image" src="https://github.com/user-attachments/assets/531d60e6-01a5-4d0e-853d-811176d7076a" />
+
+- Ấn xem web để truy cập vào trang web: https://k58kmt.tdh.io.vn/?masv=K225480106082
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/b44c6706-2eae-4aa7-a577-e6e8e11fb4b2" />
+
+<img width="435" height="884" alt="image" src="https://github.com/user-attachments/assets/32bc49ee-3e78-4a3b-9781-5fce369928b9" />
+
+<img width="1145" height="2560" alt="image" src="https://github.com/user-attachments/assets/197a26a5-c4e5-400d-8d4f-abd68ff4a0f1" />
 
